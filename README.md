@@ -1,7 +1,7 @@
 # viscoelastic_iterative_FEA
 MTALAB, ABAQUS, python and C++ codes used to perfom the automated iterative FEA on a determined sample 
 Note that is is intended to use with previously cleaned data, meaning that the input data for this method
-is the representatie indentation curve and not the sets of the raw indentation data.
+is the representative indentation curve and not the sets of the raw indentation data.
 
 If you need to perform the data cleaning on the set of raw indentation data you should use the files cotained 
 in the repository called Pre-processing (indentation).
