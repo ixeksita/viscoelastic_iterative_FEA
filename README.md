@@ -1,5 +1,5 @@
 # viscoelastic_iterative_FEA
-MATALAB, ABAQUS, Python and C++ codes used to perfom the automated iterative FEA on a determined sample 
+MATLAB, ABAQUS, Python and C++ codes used to perfom the automated iterative FEA on a determined sample 
 Note that is is intended to use with previously cleaned data, meaning that the input data for this method
 is the representative indentation curve and not the sets of the raw indentation data.
 
