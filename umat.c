@@ -1,5 +1,5 @@
 //This code is used to UPDATE the material parameters from the UMAT after each iteration in the optimization procedure
-// Copyright (C) 22016, Tania Sanchez 
+// Copyright (C) 2016, Tania Sanchez 
 // 
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
