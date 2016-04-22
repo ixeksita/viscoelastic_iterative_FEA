@@ -11,15 +11,26 @@ The file named as PDMS2.dat is the file containing the indentation data.
 In order to run the automated process you just need to call main.m from MATLAB and it will call the rest of the codes. 
 
 Brief guide to the codes and files:
+
 1. PDMS2.dat (indentation data)
+
 2. main. m (code in MATLAB to run the whole iterative process)
+
 3. creepoptimization.m (fit to the analytical solution which provides the intiial guess for the material parameters)
+
 4. objective creep.f (function used by 3)
+
 5. Optim_loop2.m (compares the FE data vs the real data and fits them to optimize the parameters)
+
 6. obj_Loop.f (function used by 5)
+
 7. Plotting (plots FE vs real data)
+
 8. ***.inp (ABAQUS input file)
+
 9. umat.exe (executable in C that replaces the material parameters)
+
 10. lista.bat (executable to run the ABAQUS analysis)
+
 11. dataget.py (Python script to retrieve FE results)
 
