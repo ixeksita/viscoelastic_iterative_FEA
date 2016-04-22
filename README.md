@@ -20,5 +20,5 @@ Brief guide to the codes and files:
 8. ***.inp (ABAQUS input file)
 9. umat.exe (executable in C that replaces the material parameters)
 10. lista.bat (executable to run the ABAQUS analysis)
-11. getdata.py (Python script to retrieve FE results)
+11. dataget.py (Python script to retrieve FE results)
 
