@@ -3,11 +3,11 @@ MATLAB, ABAQUS, Python and C++ codes used to perfom the automated iterative FEA 
 Note that is is intended to use with previously cleaned data, meaning that the input data for this method
 is the representative indentation curve and not the sets of the raw indentation data.
 
-If you need to perform the data cleaning on the set of raw indentation data you should use the files cotained 
+If you need to perform the data cleaning on the set of raw indentation data you should use the files contained 
 in the repository called Pre-processing (indentation).
 
 The file named as PDMS2.dat is the file containing the indentation data.
-In order to run the automated process you just need to call main.m from MATLAB and it wil call the rest of the codes. 
+In order to run the automated process you just need to call main.m from MATLAB and it will call the rest of the codes. 
 
 Brief guide to the codes and files:
 1. PDMS2.dat (indentation data)
